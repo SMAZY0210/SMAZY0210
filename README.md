@@ -73,11 +73,11 @@
 
 <div>
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-sandy-sigma-71.vercel.app/api/top-langs?username=smazy0210&layout=compact&theme=transparent&title_color=FFFFFF&text_color=f0f0f0">
-  <img align="left" width="370px" src="https://github-readme-stats-sandy-sigma-71.vercel.app/api/top-langs?username=smazy0210&layout=compact&theme=transparent&title_color=0e75b6&text_color=24292f" alt="top languages" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-sandy-sigma-71.vercel.app/api/top-langs?username=smazy0210&v=2&layout=compact&theme=transparent&title_color=FFFFFF&text_color=f0f0f0">
+  <img align="left" width="370px" src="https://github-readme-stats-sandy-sigma-71.vercel.app/api/top-langs?username=smazy0210&v=2&layout=compact&theme=transparent&title_color=0e75b6&text_color=24292f" alt="top languages" />
 </picture>
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-sandy-sigma-71.vercel.app/api?username=smazy0210&show_icons=true&theme=transparent&title_color=FFFFFF&text_color=f0f0f0&icon_color=0e75b6">
-  <img align="right" width="400px" src="https://github-readme-stats-sandy-sigma-71.vercel.app/api?username=smazy0210&show_icons=true&theme=transparent&title_color=0e75b6&text_color=24292f&icon_color=0e75b6" alt="github stats" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-sandy-sigma-71.vercel.app/api?username=smazy0210&v=2&show_icons=true&theme=transparent&title_color=FFFFFF&text_color=f0f0f0&icon_color=0e75b6">
+  <img align="right" width="400px" src="https://github-readme-stats-sandy-sigma-71.vercel.app/api?username=smazy0210&v=2&show_icons=true&theme=transparent&title_color=0e75b6&text_color=24292f&icon_color=0e75b6" alt="github stats" />
 </picture>
 </div>
